@@ -18,7 +18,7 @@
 <v t="leo.20151213173830.1"><vh>假如要在近端檢視, 使用下列按鈕</vh>
 <v t="leo.20151213085727.1"><vh>@button pelican-blog</vh></v>
 </v>
-<v t="amd.20151215180106.1" a="E"><vh>設定與開發</vh>
+<v t="amd.20151215180106.1"><vh>設定與開發</vh>
 <v t="amd.20151216151325.1"><vh>@@edit index.html</vh></v>
 <v t="leo.20161014155122.1" a="E"><vh>@clean index.html</vh>
 <v t="leo.20161014155122.2" a="E"><vh>html</vh>
@@ -169,11 +169,28 @@
 <v t="amd.20151216001126.1"><vh>md 檔案範例</vh></v>
 <v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
 <v t="amd.20160106093454.1" a="E"><vh>40423243 所寫的網誌文章</vh>
-<v t="amd.20160727114506.1" a="E"><vh>201609</vh>
-<v t="amd.20160727120222.1"><vh>@edit 20160921.md</vh></v>
+<v t="amd.20160727114506.1" a="E"><vh>W1</vh>
+<v t="amd.20160727120222.1"><vh>@edit W1.md</vh></v>
+</v>
+<v t="leo.20161021101553.1" a="E"><vh>W2</vh>
+<v t="leo.20161021101553.2"><vh>@edit W2.md</vh></v>
+</v>
+<v t="leo.20161021101550.1" a="E"><vh>W3</vh>
+<v t="leo.20161021101550.2"><vh>@edit W3.md</vh></v>
+</v>
+<v t="leo.20161021101549.1" a="E"><vh>W4</vh>
+<v t="leo.20161021101549.2"><vh>@edit W4.md</vh></v>
+</v>
+<v t="leo.20161021101547.1" a="E"><vh>W5</vh>
+<v t="leo.20161021101547.2"><vh>@edit W5.md</vh></v>
+</v>
+<v t="leo.20161021101618.1" a="E"><vh>W6</vh>
+<v t="leo.20161021101618.2"><vh>@edit W6.md</vh></v>
 </v>
 </v>
 </v>
+<v t="leo.20161021101722.1"><vh>以下為 reveal 投影片</vh></v>
+<v t="leo.20161021101730.1"><vh>@edit 40423243_cp_w1_p.html</vh></v>
 <v t="amd.20160106094754.1" a="E"><vh>@path ./../content/pages</vh>
 <v t="amd.20160106094829.1" a="E"><vh>40423243 所寫的 pages 文章</vh>
 <v t="amd.20160106094844.1"><vh>@edit pages_1.md</vh></v>
@@ -1456,5 +1473,11 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 @others
 &lt;/section&gt;
 </t>
+<t tx="leo.20161021101547.1"></t>
+<t tx="leo.20161021101549.1"></t>
+<t tx="leo.20161021101550.1"></t>
+<t tx="leo.20161021101553.1"></t>
+<t tx="leo.20161021101618.1"></t>
+<t tx="leo.20161021101722.1"></t>
 </tnodes>
 </leo_file>
