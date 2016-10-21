@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Created by Leo: http://leoeditor.com/leo_toc.html -->
-<?xml-stylesheet ekr_test ?>
 <leo_file xmlns:leo="http://leoeditor.com/namespaces/leo-python-editor/1.1" >
 <leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
 <globals body_outline_ratio="0.5" body_secondary_ratio="0.5">
@@ -21,8 +20,8 @@
 </v>
 <v t="amd.20151215180106.1" a="E"><vh>設定與開發</vh>
 <v t="amd.20151216151325.1"><vh>@@edit index.html</vh></v>
-<v t="leo.20161014155122.1"><vh>@clean index.html</vh>
-<v t="leo.20161014155122.2"><vh>html</vh>
+<v t="leo.20161014155122.1" a="E"><vh>@clean index.html</vh>
+<v t="leo.20161014155122.2" a="E"><vh>html</vh>
 <v t="leo.20161014155122.3"><vh>head</vh></v>
 <v t="leo.20161014155122.4" a="E"><vh>body</vh>
 <v t="leo.20161014155122.5" a="E"><vh>reveal div</vh>
@@ -169,14 +168,14 @@
 <v t="amd.20151215170350.1"><vh>以下為 content 目錄中的 md 檔案</vh></v>
 <v t="amd.20151216001126.1"><vh>md 檔案範例</vh></v>
 <v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
-<v t="amd.20160106093454.1" a="E"><vh>yen 所寫的網誌文章</vh>
+<v t="amd.20160106093454.1" a="E"><vh>40423243 所寫的網誌文章</vh>
 <v t="amd.20160727114506.1" a="E"><vh>201609</vh>
 <v t="amd.20160727120222.1"><vh>@edit 20160921.md</vh></v>
 </v>
 </v>
 </v>
 <v t="amd.20160106094754.1" a="E"><vh>@path ./../content/pages</vh>
-<v t="amd.20160106094829.1" a="E"><vh>yen 所寫的 pages 文章</vh>
+<v t="amd.20160106094829.1" a="E"><vh>40423243 所寫的 pages 文章</vh>
 <v t="amd.20160106094844.1"><vh>@edit pages_1.md</vh></v>
 </v>
 </v>
@@ -919,7 +918,7 @@ DEFAULT_DATE = 'fs'</t>
 <t tx="leo.20161014155122.3">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;    
-2016 Fall 計算機程式課程
+40423243 2016 Fall 計算機程式課程
 &lt;/title&gt;
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -1441,7 +1440,7 @@ apply broader style changes, like switching the page background.
     &lt;/pre&gt;
 &lt;/section&gt;					
 </t>
-<t tx="leo.20161014155122.8"># 2016Fall 計算機程式課程(1014)
+<t tx="leo.20161014155122.8"># 2016Fall 計算機程式課程(1014) 40423243
 
 ### 虎科大機械設計工程系
 
