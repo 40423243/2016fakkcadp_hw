@@ -15,10 +15,10 @@
 </v>
 <v t="amd.20160921213353.1"><vh>2016fall 簡報與網誌樣板系統</vh></v>
 <v t="amd.20160106095324.1" a="E"><vh>@path ./../</vh>
-<v t="leo.20151213173830.1"><vh>假如要在近端檢視, 使用下列按鈕</vh>
+<v t="leo.20151213173830.1" a="E"><vh>假如要在近端檢視, 使用下列按鈕</vh>
 <v t="leo.20151213085727.1"><vh>@button pelican-blog</vh></v>
 </v>
-<v t="amd.20151215180106.1"><vh>設定與開發</vh>
+<v t="amd.20151215180106.1" a="E"><vh>設定與開發</vh>
 <v t="amd.20151216151325.1"><vh>@@edit index.html</vh></v>
 <v t="leo.20161014155122.1" a="E"><vh>@clean index.html</vh>
 <v t="leo.20161014155122.2" a="E"><vh>html</vh>
@@ -1462,7 +1462,7 @@ apply broader style changes, like switching the page background.
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
+Created by [40423243](https://40423243.github.io/2016fallcadp_hw/blog/)
 &lt;/small&gt;
 
 [甲班計算機程式課程網誌](blog/index.html)
