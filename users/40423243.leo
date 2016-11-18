@@ -14,7 +14,7 @@
 <v t="leo.20151212173315.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
 <v t="amd.20160921213353.1"><vh>2016fall 簡報與網誌樣板系統</vh></v>
-<v t="amd.20160106095324.1" a="E"><vh>@path ./../</vh>
+<v t="amd.20160106095324.1"><vh>@path ./../</vh>
 <v t="leo.20151213173830.1" a="E"><vh>假如要在近端檢視, 使用下列按鈕</vh>
 <v t="leo.20151213085727.1"><vh>@button pelican-blog</vh></v>
 </v>
@@ -165,6 +165,7 @@
 <v t="amd.20160921225004.1"><vh>@edit .gitignore</vh></v>
 </v>
 </v>
+<v t="leo.20161118111415.1"><vh>@button https server</vh></v>
 <v t="amd.20151215170350.1"><vh>以下為 content 目錄中的 md 檔案</vh></v>
 <v t="amd.20151216001126.1"><vh>md 檔案範例</vh></v>
 <v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
@@ -190,12 +191,15 @@
 <v t="leo.20161104091758.1" a="E"><vh>W7</vh>
 <v t="leo.20161104091758.2"><vh>@edit W7.md</vh></v>
 </v>
-<v t="leo.20161104091818.1" a="E"><vh>W8</vh>
+<v t="leo.20161104091818.1"><vh>W8</vh>
 <v t="leo.20161104091818.2"><vh>@edit W8.md</vh></v>
 </v>
+<v t="leo.20161118111721.1" a="E"><vh>W10</vh>
+<v t="leo.20161118111721.2"><vh>@edit W10.md</vh></v>
 </v>
 </v>
-<v t="amd.20160106094754.1" a="E"><vh>@path ./../content/pages</vh>
+</v>
+<v t="amd.20160106094754.1"><vh>@path ./../content/pages</vh>
 <v t="amd.20160106094829.1" a="E"><vh>40423243 所寫的 pages 文章</vh>
 <v t="amd.20160106094844.1"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -1484,5 +1488,28 @@ Created by [40423243](https://40423243.github.io/2016fallcadp_hw/blog/)
 <t tx="leo.20161104091718.1"></t>
 <t tx="leo.20161104091758.1"></t>
 <t tx="leo.20161104091818.1"></t>
+<t tx="leo.20161118111415.1">@language python
+import os
+import subprocess
+import threading
+import http.server, ssl
+
+def domake():
+    # build directory
+    os.chdir("./../")
+    server_address = ('localhost', 8443)
+    httpd = http.server.HTTPServer(server_address, http.server.SimpleHTTPRequestHandler)
+    httpd.socket = ssl.wrap_socket(httpd.socket,
+                                   server_side=True,
+                                   certfile='localhost.crt',
+                                   keyfile='localhost.key',
+                                   ssl_version=ssl.PROTOCOL_TLSv1)
+    print("8443 https server started")
+    httpd.serve_forever()
+
+# 利用執行緒執行 https 伺服器
+make = threading.Thread(target=domake)
+make.start()</t>
+<t tx="leo.20161118111721.1"></t>
 </tnodes>
 </leo_file>
