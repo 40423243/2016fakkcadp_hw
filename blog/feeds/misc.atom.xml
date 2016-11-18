@@ -4,9 +4,9 @@
 
 &lt;h2&gt;Solvespace 平面四連桿機構模擬&lt;/h2&gt;
 &lt;p&gt;直接利用 Solvespace Analyze-Trace Point-Stop Trace 得到下列繞行路徑:&lt;/p&gt;
-&lt;p&gt;&lt;img src="./../data/cadpa_w10_4bar.png" width="800" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="../data/cadpa_w10_4bar.png" width="800" /&gt;&lt;/p&gt;
 &lt;p&gt;將所得到的點座標 .csv 以 Excel 畫圖, 得到:&lt;/p&gt;
-&lt;p&gt;&lt;img src="./../data/cadpa_w10_4bar_excel.png" width="800" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="../data/cadpa_w10_4bar_excel.png" width="800" /&gt;&lt;/p&gt;
 &lt;p&gt;Python3 平面四連桿機構模擬:&lt;/p&gt;
 &lt;p&gt;接下來利用三角函數推導四連桿機構的運動模擬, 即已知長度 18 公分的連桿以逆時針方向旋轉, 希望求三角形頂點的運動座標.&lt;/p&gt;
 &lt;p&gt;首先利用 Brython, 讀取 data 目錄中的 cadpa_w10_4bar.csv 座標檔案, 然後以 splitlines() 及 split() 取出各點的 x 座標與 y 座標後, 將點連成路徑曲線如下:&lt;/p&gt;
