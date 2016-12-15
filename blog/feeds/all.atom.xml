@@ -12,6 +12,26 @@
 &lt;section&gt;
     &lt;h1&gt;自評&lt;/h1&gt;
     &lt;p&gt;&lt;/p&gt;
+&lt;/section&gt;</summary><category term="使用導引"></category></entry><entry><title>W12</title><link href="./w12.html" rel="alternate"></link><updated>2016-12-01T11:22:00+08:00</updated><author><name>40423243</name></author><id>tag:,2016-12-01:./w12.html</id><summary type="html">&lt;h2&gt;方塊&lt;/h2&gt;
+
+&lt;iframe src="../data/solvespace/cube.html" width="800" height="480"&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;棍子&lt;/h2&gt;
+
+&lt;iframe src="../data/solvespace/strut.html" width="800" height="480"&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;組合正方體&lt;/h2&gt;
+
+&lt;iframe src="../data/solvespace/combination.html" width="800" height="480"&gt;&lt;/iframe&gt;
+
+&lt;section&gt;
+&lt;h1&gt;心得&lt;/h1&gt;
+
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;p&gt;&lt;/p&gt;
 &lt;/section&gt;</summary><category term="使用導引"></category></entry><entry><title>W10</title><link href="./w10.html" rel="alternate"></link><updated>2016-11-18T11:22:00+08:00</updated><author><name>40423243</name></author><id>tag:,2016-11-18:./w10.html</id><summary type="html">&lt;p&gt;有關 Solvespace 機構模擬功能介紹, 與 Python3 及 Brython 程式驗證&lt;/p&gt;
 
 

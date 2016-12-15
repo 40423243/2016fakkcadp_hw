@@ -197,8 +197,11 @@
 <v t="leo.20161118111721.1" a="E"><vh>W10</vh>
 <v t="leo.20161118111721.2"><vh>@edit W10.md</vh></v>
 </v>
-<v t="leo.20161202005441.1" a="E"><vh>W11</vh>
+<v t="leo.20161202005441.1"><vh>W11</vh>
 <v t="leo.20161202005441.2"><vh>@edit W11.md</vh></v>
+</v>
+<v t="leo.20161215223002.1" a="E"><vh>W12</vh>
+<v t="leo.20161215223002.2"><vh>@edit W12.md</vh></v>
 </v>
 </v>
 </v>
@@ -1515,5 +1518,6 @@ make = threading.Thread(target=domake)
 make.start()</t>
 <t tx="leo.20161118111721.1"></t>
 <t tx="leo.20161202005441.1"></t>
+<t tx="leo.20161215223002.1"></t>
 </tnodes>
 </leo_file>
