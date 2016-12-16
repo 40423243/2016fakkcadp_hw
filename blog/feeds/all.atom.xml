@@ -1,18 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2016-12-01T11:22:00+08:00</updated><entry><title>W11</title><link href="./w11.html" rel="alternate"></link><updated>2016-12-01T11:22:00+08:00</updated><author><name>40423243</name></author><id>tag:,2016-12-01:./w11.html</id><summary type="html">&lt;p&gt;圖
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2016-12-16T10:22:00+08:00</updated><entry><title>W14</title><link href="./w14.html" rel="alternate"></link><published>2016-12-16T10:22:00+08:00</published><updated>2016-12-16T10:22:00+08:00</updated><author><name>40423243</name></author><id>tag:,2016-12-16:./w14.html</id><summary type="html">&lt;h2&gt;三片&lt;/h2&gt;
+
+&lt;iframe src="../data/solvespace/fourbar.html" width="800" height="480"&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;升降&lt;/h2&gt;
+
+&lt;iframe src="../data/solvespace/delta_printer.html" width="800" height="480"&gt;&lt;/iframe&gt;
+
+&lt;section&gt;
+&lt;h1&gt;心得&lt;/h1&gt;
+&lt;p&gt;這周老師拍影片讓我們自己做,感覺我們好像已經能夠獨當一面了,但說真的我跟solvespace還是很不合,使用起來還是非常地不順手&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;p&gt;今天能夠獨當一面的做完我覺得我很棒所以我給自己79分&lt;/p&gt;
+&lt;/section&gt;</summary><category term="使用導引"></category></entry><entry><title>W13</title><link href="./w13.html" rel="alternate"></link><published>2016-12-09T11:12:00+08:00</published><updated>2016-12-09T11:12:00+08:00</updated><author><name>40423243</name></author><id>tag:,2016-12-09:./w13.html</id><summary type="html">&lt;p&gt;今天github寄了這樣一封信給我
+&lt;pre&gt;The page build failed with the following error:&lt;/p&gt;
+&lt;p&gt;The tag &lt;code&gt;notebook&lt;/code&gt; on line 13 in &lt;code&gt;plugin/liquid_tags/test_data/content/test-ipython-notebook-nbformat3.md&lt;/code&gt; is not a recognized Liquid tag. For more information, see https://help.github.com/articles/page-build-failed-unknown-tag-error.&lt;/p&gt;
+&lt;p&gt;For information on troubleshooting Jekyll see:&lt;/p&gt;
+&lt;p&gt;https://help.github.com/articles/troubleshooting-jekyll-builds&lt;/p&gt;
+&lt;p&gt;If you have any questions you can contact us by replying to this email.&lt;/pre&gt;&lt;/p&gt;
+&lt;p&gt;這會讓版本無法更新,解決辦法是輸入指令
+&lt;pre&gt;git rm -r -f plugin/liquid_tags/test_data&lt;/pre&gt;&lt;/p&gt;
+&lt;section&gt;
+&lt;h1&gt;心得&lt;/h1&gt;
+&lt;p&gt;第一次收到github的信感覺滿厲害的,好像自己已經是設計師一樣了,不過在這條路上還有很長一段路要走&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;p&gt;這周收到信後有解決問題了所以我給自己86分&lt;/p&gt;
+&lt;/section&gt;</summary><category term="使用導引"></category></entry><entry><title>W11</title><link href="./w11.html" rel="alternate"></link><published>2016-12-02T11:42:00+08:00</published><updated>2016-12-02T11:42:00+08:00</updated><author><name>40423243</name></author><id>tag:,2016-12-02:./w11.html</id><summary type="html">&lt;p&gt;圖
 &lt;img src="../data/0.png" width="800" /&gt;
 &lt;img src="../data/1.png" width="800" /&gt;
 &lt;img src="../data/2.png" width="800" /&gt;
 &lt;img src="../data/3.png" width="800" /&gt;&lt;/p&gt;
 &lt;section&gt;
 &lt;h1&gt;心得&lt;/h1&gt;
-
+&lt;p&gt;這周開始使用solvespace,它的功能還是讓我用的很不習慣&lt;/p&gt;
 &lt;/section&gt;
 
 &lt;section&gt;
     &lt;h1&gt;自評&lt;/h1&gt;
-    &lt;p&gt;&lt;/p&gt;
-&lt;/section&gt;</summary><category term="使用導引"></category></entry><entry><title>W12</title><link href="./w12.html" rel="alternate"></link><updated>2016-12-01T11:22:00+08:00</updated><author><name>40423243</name></author><id>tag:,2016-12-01:./w12.html</id><summary type="html">&lt;h2&gt;方塊&lt;/h2&gt;
+    &lt;p&gt;雖然很不習慣但還是做完了所以給自己77分&lt;/p&gt;
+&lt;/section&gt;</summary><category term="使用導引"></category></entry><entry><title>W12</title><link href="./w12.html" rel="alternate"></link><published>2016-12-01T11:22:00+08:00</published><updated>2016-12-01T11:22:00+08:00</updated><author><name>40423243</name></author><id>tag:,2016-12-01:./w12.html</id><summary type="html">&lt;h2&gt;方塊&lt;/h2&gt;
 
 &lt;iframe src="../data/solvespace/cube.html" width="800" height="480"&gt;&lt;/iframe&gt;
 
@@ -26,13 +58,13 @@
 
 &lt;section&gt;
 &lt;h1&gt;心得&lt;/h1&gt;
-
+&lt;p&gt;這星期開始出了很多錯誤,不可否認的是我覺得solvespace很難用,有些程式本身的錯誤讓我們無法如願地做出我們要的東西,而且我覺得程式滿盪的&lt;/p&gt;
 &lt;/section&gt;
 
 &lt;section&gt;
     &lt;h1&gt;自評&lt;/h1&gt;
-    &lt;p&gt;&lt;/p&gt;
-&lt;/section&gt;</summary><category term="使用導引"></category></entry><entry><title>W10</title><link href="./w10.html" rel="alternate"></link><updated>2016-11-18T11:22:00+08:00</updated><author><name>40423243</name></author><id>tag:,2016-11-18:./w10.html</id><summary type="html">&lt;p&gt;有關 Solvespace 機構模擬功能介紹, 與 Python3 及 Brython 程式驗證&lt;/p&gt;
+    &lt;p&gt;這周做的很差而且有點無力感所以我給自己60&lt;/p&gt;
+&lt;/section&gt;</summary><category term="使用導引"></category></entry><entry><title>W10</title><link href="./w10.html" rel="alternate"></link><published>2016-11-18T11:22:00+08:00</published><updated>2016-11-18T11:22:00+08:00</updated><author><name>40423243</name></author><id>tag:,2016-11-18:./w10.html</id><summary type="html">&lt;p&gt;有關 Solvespace 機構模擬功能介紹, 與 Python3 及 Brython 程式驗證&lt;/p&gt;
 
 
 &lt;h2&gt;Solvespace 平面四連桿機構模擬&lt;/h2&gt;
@@ -460,7 +492,7 @@ plt.show()
 &lt;p&gt;&lt;a href="https://vimeo.com/192092857"&gt;2016-11-18 10-42-40&lt;/a&gt; from &lt;a href="https://vimeo.com/user45620934"&gt;40423243&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/192092859" width="640" height="455" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/192092859"&gt;2016-11-18 11-55-54&lt;/a&gt; from &lt;a href="https://vimeo.com/user45620934"&gt;40423243&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>W8</title><link href="./w8.html" rel="alternate"></link><updated>2016-11-04T11:18:00+08:00</updated><author><name>40423243</name></author><id>tag:,2016-11-04:./w8.html</id><summary type="html">&lt;section&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/192092859"&gt;2016-11-18 11-55-54&lt;/a&gt; from &lt;a href="https://vimeo.com/user45620934"&gt;40423243&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>W8</title><link href="./w8.html" rel="alternate"></link><published>2016-11-04T11:18:00+08:00</published><updated>2016-11-04T11:18:00+08:00</updated><author><name>40423243</name></author><id>tag:,2016-11-04:./w8.html</id><summary type="html">&lt;section&gt;
 &lt;h1&gt;心得&lt;/h1&gt;
 這周要自評和互評,讓我們能夠想想這些時間自己和組員到底做了什麼
 &lt;/section&gt;
@@ -468,7 +500,7 @@ plt.show()
 &lt;section&gt;
     &lt;h1&gt;自評&lt;/h1&gt;
     &lt;p&gt;這周回想了這段時間自己和組員所做的事,在比較之下我覺得我幫助了許多人,所以這周給85分&lt;/p&gt;
-&lt;/section&gt;</summary><category term="使用導引"></category></entry><entry><title>W7</title><link href="./w7.html" rel="alternate"></link><updated>2016-10-28T11:38:00+08:00</updated><author><name>40423243</name></author><id>tag:,2016-10-28:./w7.html</id><summary type="html">&lt;section&gt;
+&lt;/section&gt;</summary><category term="使用導引"></category></entry><entry><title>W7</title><link href="./w7.html" rel="alternate"></link><published>2016-10-28T11:38:00+08:00</published><updated>2016-10-28T11:38:00+08:00</updated><author><name>40423243</name></author><id>tag:,2016-10-28:./w7.html</id><summary type="html">&lt;section&gt;
 &lt;h1&gt;心得&lt;/h1&gt;
 這星期教了計算Solvespace的點路徑,然後因為我們的分組倉儲有問題所以需要除錯,雖然之前已經除錯過一次了但那是分組倉儲而不是個人倉儲所以處理起來沒有那麼麻煩,因為時間緊湊沒有拍影片所以我在這邊說明大致作法:首先找出有問題的組員倉儲,先把他踢出子模組,幫他把倉儲問題解決之後再加入,他的問題是把不該複製的像.git等檔案也複製過去導致其他人上傳的檔案無法更新,分組問題是他把分組倉儲也加入子模組內
 &lt;/section&gt;
@@ -480,7 +512,7 @@ plt.show()
 
 &lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/190191199" width="640" height="457" frameborder="0" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/190191199"&gt;2016-10-28 10-52-34&lt;/a&gt; from &lt;a href="https://vimeo.com/user45620934"&gt;40423243&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>W6</title><link href="./w6.html" rel="alternate"></link><updated>2016-10-21T10:18:00+08:00</updated><author><name>40423243</name></author><id>tag:,2016-10-21:./w6.html</id><summary type="html">&lt;section&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/190191199"&gt;2016-10-28 10-52-34&lt;/a&gt; from &lt;a href="https://vimeo.com/user45620934"&gt;40423243&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>W6</title><link href="./w6.html" rel="alternate"></link><published>2016-10-21T10:18:00+08:00</published><updated>2016-10-21T10:18:00+08:00</updated><author><name>40423243</name></author><id>tag:,2016-10-21:./w6.html</id><summary type="html">&lt;section&gt;
 &lt;h1&gt;心得&lt;/h1&gt;
 這周讓那些進度落後的同學趕上進度並介紹了OnShape這個網頁,他可以線上協同製圖,不但加速了交流也增加了分工的效率
 &lt;/section&gt;
@@ -488,7 +520,7 @@ plt.show()
 &lt;section&gt;
     &lt;h1&gt;自評&lt;/h1&gt;
     &lt;p&gt;這周幫助了許多進度落後的同學不但發揮了十足的同理心也複習了指令,所以這周給70分&lt;/p&gt;
-&lt;/section&gt;</summary><category term="使用導引"></category></entry><entry><title>W5</title><link href="./w5.html" rel="alternate"></link><updated>2016-10-14T10:30:00+08:00</updated><author><name>40423243</name></author><id>tag:,2016-10-14:./w5.html</id><summary type="html">&lt;section&gt;
+&lt;/section&gt;</summary><category term="使用導引"></category></entry><entry><title>W5</title><link href="./w5.html" rel="alternate"></link><published>2016-10-14T10:30:00+08:00</published><updated>2016-10-14T10:30:00+08:00</updated><author><name>40423243</name></author><id>tag:,2016-10-14:./w5.html</id><summary type="html">&lt;section&gt;
 &lt;h1&gt;心得&lt;/h1&gt;
 這周教了SolveSpace的用法,還有下載倉儲後面可以打hw這樣就不用整個抓了速度比較快,然後這周把上周的倉儲問題解決了,後來發現問題是分組倉儲也在子模組裡面所以造成bug
 &lt;/section&gt;
@@ -504,7 +536,7 @@ plt.show()
 
 &lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/187303124" width="640" height="455" frameborder="0" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/187303124"&gt;2016-10-14_10-48-38&lt;/a&gt; from &lt;a href="https://vimeo.com/user45620934"&gt;40423243&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>W4</title><link href="./w4.html" rel="alternate"></link><updated>2016-10-07T11:40:00+08:00</updated><author><name>40423243</name></author><id>tag:,2016-10-07:./w4.html</id><summary type="html">&lt;section&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/187303124"&gt;2016-10-14_10-48-38&lt;/a&gt; from &lt;a href="https://vimeo.com/user45620934"&gt;40423243&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>W4</title><link href="./w4.html" rel="alternate"></link><published>2016-10-07T11:40:00+08:00</published><updated>2016-10-07T11:40:00+08:00</updated><author><name>40423243</name></author><id>tag:,2016-10-07:./w4.html</id><summary type="html">&lt;section&gt;
 &lt;h1&gt;心得&lt;/h1&gt;
 這星期教了
 
@@ -526,7 +558,7 @@ git config --global https.proxy http://proxy.mde.tw:3128 &lt;/pre&gt;
 
 &lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/187303117" width="640" height="455" frameborder="0" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/187303117"&gt;2016-10-07_11-54-18&lt;/a&gt; from &lt;a href="https://vimeo.com/user45620934"&gt;40423243&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>W3</title><link href="./w3.html" rel="alternate"></link><updated>2016-09-30T11:10:00+08:00</updated><author><name>40423243</name></author><id>tag:,2016-09-30:./w3.html</id><summary type="html">&lt;section&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/187303117"&gt;2016-10-07_11-54-18&lt;/a&gt; from &lt;a href="https://vimeo.com/user45620934"&gt;40423243&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>W3</title><link href="./w3.html" rel="alternate"></link><published>2016-09-30T11:10:00+08:00</published><updated>2016-09-30T11:10:00+08:00</updated><author><name>40423243</name></author><id>tag:,2016-09-30:./w3.html</id><summary type="html">&lt;section&gt;
 &lt;h1&gt;心得&lt;/h1&gt;
 這星期教fork和改主要倉儲分支,改主要倉儲分支很方便的地方是不用每次clone下來都改一次分支,然後教建立帳號.github.io倉儲並自行維護個人首頁,最後要找自選組員
 &lt;/section&gt;
@@ -534,7 +566,7 @@ git config --global https.proxy http://proxy.mde.tw:3128 &lt;/pre&gt;
 &lt;section&gt;
     &lt;h1&gt;自評&lt;/h1&gt;
     &lt;p&gt;這周找到了許多組員,也發現了主分支的方便性,所以這周給75分&lt;/p&gt;
-&lt;/section&gt;</summary><category term="使用導引"></category></entry><entry><title>W2</title><link href="./w2.html" rel="alternate"></link><updated>2016-09-23T11:00:00+08:00</updated><author><name>40423243</name></author><id>tag:,2016-09-23:./w2.html</id><summary type="html">&lt;section&gt;
+&lt;/section&gt;</summary><category term="使用導引"></category></entry><entry><title>W2</title><link href="./w2.html" rel="alternate"></link><published>2016-09-23T11:00:00+08:00</published><updated>2016-09-23T11:00:00+08:00</updated><author><name>40423243</name></author><id>tag:,2016-09-23:./w2.html</id><summary type="html">&lt;section&gt;
 &lt;h1&gt;心得&lt;/h1&gt;
 因為昨天晚上來上課的人很少,所以今天老師又說了一次昨天晚上的東西讓我們複習
 &lt;/section&gt;
@@ -542,7 +574,7 @@ git config --global https.proxy http://proxy.mde.tw:3128 &lt;/pre&gt;
 &lt;section&gt;
     &lt;h1&gt;自評&lt;/h1&gt;
     &lt;p&gt;因為我昨天晚上有來,今天就沒什麼大問題,除了複習昨天交的外還又自己熟悉了一下操作,所以這周給70分&lt;/p&gt;
-&lt;/section&gt;</summary><category term="使用導引"></category></entry><entry><title>W1</title><link href="./w1.html" rel="alternate"></link><updated>2016-09-22T07:20:00+08:00</updated><author><name>40423243</name></author><id>tag:,2016-09-22:./w1.html</id><summary type="html">&lt;section&gt;
+&lt;/section&gt;</summary><category term="使用導引"></category></entry><entry><title>W1</title><link href="./w1.html" rel="alternate"></link><published>2016-09-22T07:20:00+08:00</published><updated>2016-09-22T07:20:00+08:00</updated><author><name>40423243</name></author><id>tag:,2016-09-22:./w1.html</id><summary type="html">&lt;section&gt;
 &lt;h1&gt;心得&lt;/h1&gt;
 因為第一個星期放颱風假所以調到今天晚上上課,雖然這學期上課內容因應時代潮流所以要上別的但還是和上學期學的有關連,所以上起來還算上手
 &lt;/section&gt;
@@ -550,7 +582,7 @@ git config --global https.proxy http://proxy.mde.tw:3128 &lt;/pre&gt;
 &lt;section&gt;
     &lt;h1&gt;自評&lt;/h1&gt;
     &lt;p&gt;這周照著老師的步調就很好上手,感覺上學期的東西都回憶起來了感覺還不錯,所以這周給80分&lt;/p&gt;
-&lt;/section&gt;</summary><category term="使用導引"></category></entry><entry><title>2016Fall 簡報與網誌系統</title><link href="./2016fall-jian-bao-yu-wang-zhi-xi-tong.html" rel="alternate"></link><updated>2016-09-02T12:00:00+08:00</updated><author><name>40423243</name></author><id>tag:,2016-09-02:./2016fall-jian-bao-yu-wang-zhi-xi-tong.html</id><summary type="html">&lt;p&gt;這個系統共集結了 reveal.js 網際簡報與 pelican 靜態網誌系統.&lt;/p&gt;
+&lt;/section&gt;</summary><category term="使用導引"></category></entry><entry><title>2016Fall 簡報與網誌系統</title><link href="./2016fall-jian-bao-yu-wang-zhi-xi-tong.html" rel="alternate"></link><published>2016-09-02T12:00:00+08:00</published><updated>2016-09-02T12:00:00+08:00</updated><author><name>40423243</name></author><id>tag:,2016-09-02:./2016fall-jian-bao-yu-wang-zhi-xi-tong.html</id><summary type="html">&lt;p&gt;這個系統共集結了 reveal.js 網際簡報與 pelican 靜態網誌系統.&lt;/p&gt;
 
 
 &lt;p&gt;網誌 Category&lt;/p&gt;
